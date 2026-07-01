@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6c0149/v1
+canonical_location: https://kanripo.org/bkk/KR6c0149/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 般若心經疏詒謀鈔
+  identifiers:
+    alt_id:
+    - X26n0530
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0530.xml
+    old_id: X26n0530
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0149_000.yaml, hash: 'sha256:0566ba2bbdfa1ed52885f0bb053f9792d23cc3ca58e42f3c6b47ac4bfda2fc79'}
+  - {seq: 1, filename: KR6c0149_001.yaml, hash: 'sha256:ccd9320aed4e1d14a16832395e4af328f9555ffc6daa0bfe5386c18776e72ded'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0149_000.markers.yaml, hash: 'sha256:1779cb5fd59ae62daf96878db0165df0b47a26e7febbc2fbd80c5bc9bfab4baf'}
+  - {seq: 1, role: markers, filename: assets/KR6c0149_001.markers.yaml, hash: 'sha256:fe01eaf00df585f2602dd1cbc8893558eae576291a867bb17f04f0e87c84204a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0149_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 530-A 刻般若心經疏詒謀鈔䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0149_X_000-mulu-2
+    span:
+    - front
+    - 113
+    - 113
+  label: 般若心經疏詒謀鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0149_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7660
+  label: 般若心經疏詒謀鈔有引
+  type: juan
+  level: 1
+hash: sha256:856c1e0cff7d5ac12fb93979dbb5ff97e600c02ed567c07b01e23fef4c029f4e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
