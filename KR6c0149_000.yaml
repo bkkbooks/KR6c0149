@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6c0149/x/v1/juan/0
 seq: 0
 front:
-  text: 刻般若心經疏詒謀鈔跋詒謀鈔宋孤山圓師釋自撰般若心經疏其書研精發微使經疏旨益彰彰焉誠有益於物也然疏已久行而其鈔未流學者憾之近吾靈空和尚嘗為之較正且加訓點劂生請鍥諸梓就豫需跋語豫雖不文隨喜其成遂書卑云享保己亥年五月天台沙門智空謹書
-  hash: sha256:152f61f188a24e345c2c10d64ca5f5142705699a21275255951d92246d1aeb1b
+  text: 刻般若心經疏詒謀鈔䟦詒謀鈔宋孤山圓師釋自撰般若心經疏其書研精發微使經疏旨益彰彰焉誠有益於物也然疏已久行而其鈔未流學者憾之近吾靈空和尚嘗為之較正且加訓點劂生請鍥諸梓就予需䟦語予雖不文隨喜其成遂書卑云享保己亥年五月天台沙門智空謹書
+  hash: sha256:43fe3250f48c820746faa7fcc572b84c7b40a35165df59d0d09d8b039f433de4
   markers:
   - {type: 序, offset: 0, content: No. 530-A 刻般若心經疏詒謀鈔䟦, id: KR6c0149_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 113, content: 般若心經疏詒謀鈔, id: KR6c0149_X_000-mulu-2, level: '1'}
@@ -17,4 +17,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X26/X26n0530.xml
     old_id: X26n0530
-hash: sha256:0566ba2bbdfa1ed52885f0bb053f9792d23cc3ca58e42f3c6b47ac4bfda2fc79
+hash: sha256:8b903541c36b6e5623c15c5bbdd5dea6f70122113fa6625ae3134adf6b17409d
