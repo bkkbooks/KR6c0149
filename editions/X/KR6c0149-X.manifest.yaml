@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0149_000-X.yaml, hash: 'sha256:8b903541c36b6e5623c15c5bbdd5dea6f70122113fa6625ae3134adf6b17409d'}
+  - {seq: 0, filename: KR6c0149_000-X.yaml, hash: 'sha256:ef4873fa95820f515ceeedb7ad3aff7550fe5fb03509f1ae82725bd77f0211cd'}
   - {seq: 1, filename: KR6c0149_001-X.yaml, hash: 'sha256:a80fa2cb4d0b670f97256ba382bc4887f368ed61e04650bfd0b119b59027b47e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0149_000-X.markers.yaml, hash: 'sha256:0753d8ec72f7bff923fa73256205a1635097fe6c2ffad9596da6bd28e808eabf'}
+  - {seq: 0, role: markers, filename: assets/KR6c0149_000-X.markers.yaml, hash: 'sha256:36af2141706cfedcdbf7a68a02f7166dae0829eb2a32f791ea563b5fd9bd8998'}
   - {seq: 1, role: markers, filename: assets/KR6c0149_001-X.markers.yaml, hash: 'sha256:d23033d0a74e735b7e0ac6a35c924c7961fbf21ec9033e0081cd751bf07382cd'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0149_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 530-A 刻般若心經疏詒謀鈔䟦
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0149_X_000-mulu-2
     span:
-    - front
+    - body
     - 113
     - 113
   label: 般若心經疏詒謀鈔
@@ -55,4 +55,4 @@ table_of_contents:
   label: 般若心經疏詒謀鈔有引
   type: juan
   level: 1
-hash: sha256:75b76ad1d395603df3b3e0353753ee494262eb55f0c43cd58696a1e77c50697a
+hash: sha256:145dc381ad017d722a155485e93fd36d1135c6549b11ee9e86bbf66886ed0413
